@@ -13,8 +13,8 @@ Avoir gcc  en local
 Lancement du programme ---------
 Executer les commandes suivantes : 
 
-gcc -c fichier.c -o execution
-./execution
+1. gcc -c fichier.c -o execution
+2. ./execution
 
 Voud devez obtenir le resultat suivant :
 
