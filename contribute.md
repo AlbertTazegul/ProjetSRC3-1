@@ -24,7 +24,8 @@ ma-nouvelle-feature
 
 5. Suivez le meme style de code (nommage des variables, des fonctions, indentation)
 
-6. Ajouter la ention "Ceci est un test" au debut de chaque nouvelle contribution (nouvelle feature) si la correction n'est pas testée au préalabale.
+6. Ajouter la mention "Ceci est un test" au debut de chaque nouvelle contribution (nouvelle feature) si la correction n'est pas testée au préalabale.
+7. Les modifications apportées et situées dans fetaures seront testés et devront être approuvées par l'administrateur pour être placées dans le "main" 
 
 
 
